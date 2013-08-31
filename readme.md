@@ -6,6 +6,9 @@ HisoutenAddressService is a game lobby server application, mainly for Toho Hisou
 HisoutenAddressService は AddressUpdater（クライアント側）などのアプリと組み合わせて用いる、
 東方緋想天／東方非想天則向けサーバーアプリケーションです。
 
+使い方などの説明は、AddressUpdater レポジトリの AddressUpdater/AUreadme 
+フォルダの readme.html に記載があります。
+
 ライセンス
 ---------------
 HisoutenAddressService の元々の著作者は bngper さんです。
